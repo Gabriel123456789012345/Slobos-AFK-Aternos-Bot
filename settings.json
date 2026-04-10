@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "serverdevaral.aternos.me",
+    "ip": "serverdevaral.aternos.me:26413",
     "port": 26413,
     "version": "",
     "try-creative": false

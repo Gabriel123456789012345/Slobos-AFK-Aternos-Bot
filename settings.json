@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "serverdevaral.aternos.me:26413",
+    "ip": "serverdevaral.aternos.me",
     "port": 26413,
     "version": "",
     "try-creative": false
